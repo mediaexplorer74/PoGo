@@ -1,10 +1,11 @@
 # PoGo (mtaheij's PoGo-UWP 1.2.8 RnD)
 ![W11](Images/logo.png)
 
-My fork of "archived" PoGo-UWP project for quick and dirty "old sweet code exploration". No[t] more, no[t] less. :)
+My fork of "archived" PoGo-UWP project for quick and dirty "old sweet code exploration" and only re-creation ARM app package. No[t] more, no[t] less. :)
 
 ## Screenshots
 ![W11](Images/shot01.png)
+![W11](Images/shot02.png)
 
 ## Status
 - Min. W10M build = 10586 (not 10240!)
