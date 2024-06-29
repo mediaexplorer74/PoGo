@@ -10,8 +10,7 @@ My fork of "archived" PoGo-UWP project for quick and dirty "old sweet code explo
 ## Status
 - Min. W10M build = 10586 (not 10240!)
 - Damaged. Url https://talk.pogodev.org/d/51-api-hashing-service-by-pokefarmer lost. 
-- At 2017 year, the Game "was ok" but with some small issues:
-- The app is not 100% safe from bans. This means your Trainer account might be banned when you use it. 
+- At 2017 year, the Game "was ok" but with some small issues: The app is not 100% safe from bans. This means your Trainer account might be banned when you use it. 
 
 
 ## Tech. info
