@@ -1,4 +1,4 @@
-# PoGo (mtaheij's PoGo-UWP 1.2.2 RnD)
+# PoGo (mtaheij's PoGo-UWP 1.2.8 RnD)
 ![W11](Images/logo.png)
 
 My fork of "archived" PoGo-UWP project for quick and dirty "old sweet code exploration". No[t] more, no[t] less. :)
